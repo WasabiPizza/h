@@ -6,7 +6,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #000;
+    --background: #1a1a1b;
     --center: #242425;
     --text: #c5c5c5;
   }
@@ -63,4 +63,5 @@ img {
     color: #a57562 ;
     padding-right: 10px;
 }
+
 
