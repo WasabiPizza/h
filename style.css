@@ -6,9 +6,9 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #111;
-    --center: #222;
-    --text: #eaeaea;
+    --background: #000;
+    --center: #242425;
+    --text: #c5c5c5;
   }
 }
 
@@ -63,3 +63,4 @@ img {
     color: #a57562 ;
     padding-right: 10px;
 }
+
